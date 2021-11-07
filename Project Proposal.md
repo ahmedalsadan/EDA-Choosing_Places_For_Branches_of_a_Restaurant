@@ -1,4 +1,4 @@
-# Choosing-Places-For-Branches-of-a-Restaurant
+# Choosing Places For Branches of a Restaurant
 
 ## Goal
 The RS company wants to establish 3 branches of a restaurant in NYC.
