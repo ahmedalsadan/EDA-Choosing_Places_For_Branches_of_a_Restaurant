@@ -1,6 +1,6 @@
 # Choosing-Places-For-Branches-of-a-Restaurant
 ## Abstract
--	The purpose of the project is to find 3 places suitable to establish 3 branches of a restaurant in NYC. 
+-	The purpose of the project is to find 3 places suitable for establishing 3 branches of a restaurant in NYC. 
 -	The RS company is looking for places which have high density, where can be near MTA stations.
 -	People generally concern with this project.
 -	Both entries and exits of MTA stations will be considered for determining the suitable places.
