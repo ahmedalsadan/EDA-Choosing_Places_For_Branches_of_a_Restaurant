@@ -1,4 +1,4 @@
-# Choosing-Places-For-Branches-of-a-Restaurant
+# Choosing Places For Branches of a Restaurant
  ![image](https://user-images.githubusercontent.com/87885486/140658327-4eae9a5a-029a-4d2a-bb9e-b8665d2f421d.png)
 
 The purpose of the project is to find 3 places suitable for establishing 3 branches of a restaurants.
