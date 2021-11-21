@@ -21,4 +21,4 @@ The data was cleaned because of:
 -	Matplotlib
 
 ## Communication
-The project process and result have presented. To see the presentation slides click [here](https://github.com/ahmedalsadan/Project-1-Choosing-Places-For-Branches-of-a-Restaurant/blob/main/Presentation%20Slides.pdf).
+The project process and result have been presented. To see the presentation slides click [here](https://github.com/ahmedalsadan/Project-1-Choosing-Places-For-Branches-of-a-Restaurant/blob/main/Presentation%20Slides.pdf).
