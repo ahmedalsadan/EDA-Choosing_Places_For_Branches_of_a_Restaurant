@@ -4,7 +4,7 @@
 The RS company wants to establish 3 branches of a restaurant in NYC.
 It is looking for locations which have high density.
 People generally concern with this project.
-Both entries and exits of MTA stations will be considered for determining the suitable places.
+Both entries and exits of MTA stations will be considered for determining the suitable locations.
 
 ## Data Description
 The extracted sample of the dataset is taken in the spring season of 2021
